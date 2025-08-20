@@ -72,8 +72,6 @@ Your CSV file should have the following structure:
 
 ```csv
 name,age,gender,attendees,date_of_diagnosis,cancer_type,cancer_stage,cancer_grade,image_path
-John Doe,45,Male,Spouse,2024-01-15,Breast Cancer,Stage II,Grade 2,images/john_doe.jpg
-Jane Smith,52,Female,Daughter,2024-01-20,Lung Cancer,Stage I,Grade 1,images/jane_smith.jpg
 ```
 
 ## Template Editor
