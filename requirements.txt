@@ -1,0 +1,19 @@
+# Patient Report Generator - requirements.txt
+# Install with: pip install -r requirements.txt
+
+# Data
+pandas>=2.0
+
+# Imaging
+Pillow>=10.0
+
+# PDF creation / merging
+reportlab>=3.6
+PyPDF2>=3.0
+
+# PDF preview (preferred; no external binaries needed)
+PyMuPDF>=1.24
+
+# Optional fallback PDF preview (requires Poppler installed separately)
+# If you already have Poppler, keep this; otherwise you can remove it.
+pdf2image>=1.17
